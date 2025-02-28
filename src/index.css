@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #048ef9;
+  --font-dm: "DM Sans", "serif";
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 5px;
+}
+
+/* Style the scrollbar thumb (the draggable part) */
+::-webkit-scrollbar-thumb {
+  background-color: #048ef9; /* Color of the thumb */
+  border-radius: 10px; /* Rounded corners */
+}
+
+/* Style the scrollbar track (background) */
+::-webkit-scrollbar-track {
+  background: transparent; /* Fully transparent */
+}
+
+/* Optional: On hover, change the thumb color */
+::-webkit-scrollbar-thumb:hover {
+  background-color: #036dcf;
+}
+
+/* Hide scrollbar completely */
+.scrollbar-hide {
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE, Edge */
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none; /* Chrome, Safari */
+}

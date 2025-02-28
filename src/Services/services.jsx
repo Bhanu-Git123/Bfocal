@@ -11,6 +11,7 @@ const services = [
       "Custom App Solutions",
       "Cross-Platform Dev",
     ],
+    img: ServiceIllustration,
   },
   {
     title: "Software Development",
@@ -22,27 +23,29 @@ const services = [
       "ERP Software Development",
       "Custom CRM Development",
     ],
+    img: ServiceIllustration,
   },
+
   // Add 4 more services here...
 ];
 
 const ServicesSection = () => {
   return (
-    <div className=" px-24 py-12 flex flex-col gap-12">
+    <div className=" mx-38  py-12 flex flex-col gap-12">
       {services.map((service, index) => (
         <div
           key={index}
-          className={`flex flex-col md:flex-row items-center gap-8  p-10 ${
-            index % 2 === 0 ? "md:flex-row-reverse" : ""
-          }`}
+          className={`flex gap-8 my-10  outline-black ${
+            index % 2 === 0 ? "flex-row-reverse" : "flex-row"
+          } items-center`}
         >
-          <img
-            src={ServiceIllustration}
-            alt="ServiceIllustration"
-            className="w-64 object-cover "
-          />
-          <div className="w-96 ">
-            <h2 className="text-2xl font-bold text-blue-600">{service.title}</h2>
+          <div className="flex-[0.6]">
+            <img src={service.img} alt="ServiceIllustration" className=" " />
+          </div>
+          <div className="flex-1 ">
+            <h2 className="text-2xl font-bold text-blue-600">
+              {service.title}
+            </h2>
             <p className="text-gray-600 mt-4">{service.description}</p>
             <ul className="mt-4 space-y-2 text-gray-700">
               {service.points.map((point, i) => (
