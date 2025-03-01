@@ -21,7 +21,7 @@ const HeroSection = () => {
               industry-leading capabilities, we empower your business to evolve
               and reach its full potential.
             </p>
-            <button className="mt-6 px-6 py-3 bg-blue-600 rounded-lg text-white text-lg font-semibold hover:bg-blue-700">
+            <button className="mt-4 px-4 py-2 border border-white-600 text-white-600 rounded-lg hover:bg-blue-600 hover:text-white ">
               Let's Discuss →
             </button>
           </div>

@@ -25,6 +25,38 @@ const services = [
     ],
     img: ServiceIllustration,
   },
+  {
+    title: "Cloud Development",
+    description:
+      "We Guide Our Clients Through Seamless Cloud Migration, Optimize Their Cloud Investments, And Build Robust, Scalable Architectures With Our Cloud-Managed Services, We Take Of Your Cloud Operations So You Can Focus On Growing Your Business.",
+    points: ["Cloud Consulting", "Cloud Management Service"],
+    img: ServiceIllustration,
+  },
+  {
+    title: "Digital Transformation",
+    description:
+      "Our Digital Transformation Services Drive Industry Innovation, Helping Businesses Adapt, Scale, And Thrive. From AI-Driven Solutions To Cloud And Blockchain Integration, We Empower Organizations To Build Resilient, Future-Ready Enterprises. ",
+    points: [
+      "Supply Chain Management",
+      "Asset Management",
+      "App Modernization",
+    ],
+    img: ServiceIllustration,
+  },
+  {
+    title: "Ideation & Design",
+    description:
+      "We Craft, Design, And Engineer Innovative Solutions Through Our Ideation And Product Design Services, Delivering Exceptional Value. Our Designs Captivate Audiences With Unparalleled Quality And Creativity Ensuring Your Products Stand Out In The  Market.",
+    points: ["UI/UX Design", "Product Management"],
+    img: ServiceIllustration,
+  },
+  {
+    title: "DevOps ",
+    description:
+      "Through An Endless Cycle Of Continuous Integration And Delivery We Accelerate Development And Drive Your Business Growth To New Heights, Delivering Results Like Never Before.",
+    points: ["SaaS Development", "MVP Development"],
+    img: ServiceIllustration,
+  },
 
   // Add 4 more services here...
 ];
@@ -36,7 +68,7 @@ const ServicesSection = () => {
         <div
           key={index}
           className={`flex gap-8 my-10  outline-black ${
-            index % 2 === 0 ? "flex-row-reverse" : "flex-row"
+            index % 2 === 0 ? "flex-row" : "flex-row-reverse"
           } items-center`}
         >
           <div className="flex-[0.6]">
