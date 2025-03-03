@@ -1,10 +1,207 @@
 {
-    "Home" :{
-
+  "Home": {
+    "hero_section": {
+      "title": "Revolutionizing Business Practices, One Block at a Time",
+      "subtitle": "At Focal, we empower organizations to thrive in the era of digital transformation, we craft tailored trusted, and end-to-end solutions.",
+      "button": null
     },
-    "Services":{
-         "Hero":{
-            "Title":"Transforming Businesses with Blockchain Innovation",
-            "substitle":"With our extensive expertise, strategic partnerships, and industry-leading capabilities, we empower your business to evolve and reach its full potential.Let's Discuss "
-         }
-    }}
+    "partners": {
+      "logos": ["r3", "Digital Asset", "PARFIN", "ripple", "aws"]
+    },
+    "who_we_are": {
+      "title": "Mobile App Development",
+      "description": "We built inovativn hiendly moblie  that deliver asaтінка якренносs and deve meaningful results for your business."
+    },
+    "mission": {
+      "title": "Software Development",
+      "description": "We buld pileerhd scolabis softwww.sclutions takored to your business beed, drving efficiency and innovation."
+    },
+    "vision": {
+      "title": "Cloud Management",
+      "description": "We build robust cloud managemant sulubionis that aptimüsaw, anhance ancialty and serveres scalability for your business."
+    },
+    "key_metrics": {
+      "years_of_experience": null,
+      "projects_successfully_delivered": null,
+      "happy_clients": null,
+      "repeat_business": null
+    },
+    "cta_section": {
+      "title": "Ready to unlock the power of blockchain for your business transformation?",
+      "button": "Соmаст  Бърите"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "questions": [
+        "How much do blockchain app development services cost?",
+        "Haw long does it take to build a blockchain app?",
+        "How to fire the right poocaichuan developers from a blockchain application development company?",
+        "Whist blockchain platforms do you work on?",
+        "How can I assess the progress of my blockcham project?"
+      ]
+    },
+    "blogs": {
+      "title": "Related Blogs",
+      "articles": [
+        "An Entrepreneur's Guide in the Blocinthan Technology and its Uses",
+        "A Comprehensive Guide an Blockchain App Development Cost",
+        "How Much Does It Cost to Make A Crypte Wallet App on Blockchain?"
+      ]
+    },
+    "contact": {
+      "title": "Get in touch with us.",
+      "subtitle": "We're here to assist you.",
+      "fields": [
+        "Your Name",
+        "Email Address",
+        "Phone Number (optional)",
+        "Message"
+      ],
+      "button": "Laavo Message"
+    },
+    "footer": {
+      "company_info": null,
+      "links": [],
+      "newsletter": "Receive exclusive stories in your inbox twice a month"
+    }
+  },
+
+  "Services": {
+    "hero_section": {
+      "title": "Transforming Businesses with Blockchain Innovation",
+      "subtitle": "With our extensive expertise, strategic partnerships, and industry-leading capabilities, we empower your business to evolve and reach its full potential.",
+      "button": null
+    },
+    "partners": {
+      "logos": ["Digital Asset", "PARFIN", "ripple", "aws"]
+    },
+    "who_we_are": {
+      "title": "Software Development",
+      "description": "We are Focal-agle innovatives, and driven by excellence We craft talloned software solutions that directly address your challenges, dellverang twal vahu and unlocking new revenue opportunities."
+    },
+    "mission": {
+      "title": "Cloud Development",
+      "description": "We guide our clients through puanla cloud migration optimus their cloud investments and build robust, scalable architectures. With our cloud-managed services we the care of your cloud operations so you can focus on growing your businees."
+    },
+    "vision": {
+      "title": "Digital Transformation",
+      "description": "Our digital brassformation services drive industry innovation, helping businesses adapt, scale, and thrive. From Al-driven solutions to cloud and blockchain integration, we empower organizations to bolid resilient, future ready enterpmses."
+    },
+    "key_metrics": {
+      "years_of_experience": "2+",
+      "projects_successfully_delivered": null,
+      "happy_clients": null,
+      "repeat_business": null
+    },
+    "cta_section": {
+      "title": "Ready to unlock the power of blockchain for your business transformation?",
+      "button": null
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "questions": [
+        "How much do blockchain app development services cost?",
+        "How long does it takе на  и воскопот app?",
+        "How to hre the right blockstian developers from a blockchain appanon development company?",
+        "What Diockanan platforms  you work ant",
+        "How can I assess the progress of my blockchan sroject"
+      ]
+    },
+    "blogs": {
+      "title": "Related Blogs",
+      "articles": [
+        "An Entrepreneur's Guide on the Blockchain Technology and its Uses",
+        "A Comprehensive Guide on Blockchain App Development Cost",
+        "How Much Dose  Cost to Make A Cryptsi Wallet App on Blockchain?"
+      ]
+    },
+    "contact": {
+      "title": "Get in touch with us.",
+      "subtitle": "We're here to assist you.",
+      "fields": [
+        "Your Name",
+        "Emad Addhas",
+        "Phone Number loptional)",
+        "Mossage"
+      ],
+      "button": "Leave us a Message"
+    },
+    "footer": {
+      "company_info": null,
+      "links": [],
+      "newsletter": "Receive exclusive stories in your inbox twice a month"
+    }
+  },
+  "About": {
+    "hero_section": {
+      "title": "Driven by Collaboration, Powered by Innovation",
+      "subtitle": "Together, we innovate, build, and deliver exceptional solutions that drive your business forward.",
+      "button": "Get in Touch"
+    },
+    "partners": {
+      "logos": ["R3", "Digital Asset", "Parfin", "Ripple", "AWS"]
+    },
+    "who_we_are": {
+      "title": "Who We Are",
+      "description": "Blockchain is revolutionizing business practices and fueling the growth of organizations with Blockchain global solutions. We are global leaders with extensive experience in creating customized, trusted end-to-end blockchain solutions and services that help businesses to make an everlasting impact in this new era of digital transformation. We offer a wide range of innovative blockchain value-added services to help businesses in the adoption, integration, and realization of Blockchain networks."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "Our mission is to empower businesses by providing robust, secure, and scalable Blockchain solutions that drive innovation, enhance operational efficiency, and create lasting value. We aim to help organizations embrace the future through Blockchain technology and digital transformation, enabling them to thrive in an increasingly digital world."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "We envision a world where businesses can leverage Blockchain technology to create transparent, efficient, and trustworthy systems that elevate their operations and bring value to their customers. At [Company Name], we strive to be at the forefront of this revolution, offering innovative solutions that ensure your business stays ahead of the curve."
+    },
+    "key_metrics": {
+      "years_of_experience": "2+",
+      "projects_successfully_delivered": "100+",
+      "happy_clients": "99%",
+      "repeat_business": "80%"
+    },
+    "cta_section": {
+      "title": "Ready to unlock the power of blockchain for your business transformation?",
+      "button": "Contact Our Experts"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "questions": [
+        "How much do blockchain app development services cost?",
+        "How long does it take to build a blockchain app?",
+        "How to hire the right blockchain developers from a blockchain application development company?",
+        "What blockchain platforms do you work on?",
+        "How can I assess the progress of my blockchain project?"
+      ]
+    },
+    "blogs": {
+      "title": "Related Blogs",
+      "articles": [
+        "An Entrepreneur's Guide on the Blockchain Technology and Its Uses",
+        "A Comprehensive Guide on Blockchain App Development Cost",
+        "How Much Does It Cost to Make A Crypto Wallet App on Blockchain?"
+      ]
+    },
+    "contact": {
+      "title": "Get in touch with us.",
+      "subtitle": "We're here to assist you.",
+      "fields": [
+        "Your Name",
+        "Email Address",
+        "Phone Number (optional)",
+        "Message"
+      ],
+      "button": "Leave us a Message"
+    },
+    "footer": {
+      "company_info": "[Company Name], Address, Email, Phone",
+      "links": [
+        "About Us",
+        "Privacy Policy",
+        "Terms & Conditions",
+        "Cookie Policy",
+        "Accessibility Statement"
+      ],
+      "newsletter": "Subscribe to our Newsletter - Receive exclusive stories in your inbox twice a month"
+    }
+  }
+}
